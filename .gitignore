@@ -130,3 +130,6 @@ dmypy.json
 
 # Isolated setup env
 setup-env/
+
+# Vim files
+*.un~
